@@ -48,14 +48,14 @@ User interface to interact with the model will be avaiable later with the source
 
 ## Learning Resources
 
-Skills involved in this include:
+#### Skills involved in this include:
 
 1. Python: Pandas, Matplotlib, and other libraries
 2. Basic Microsoft Fabric Usuage
 3. Fundamentals of Machine Learning Concepts
 
-Here are useful links to learn:
-Python Programming: `https://cs50.harvard.edu/python/2022/`
-Pandas: `https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS`
-Matplotlib: `https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_`
-Machine Learning Concepts: `https://www.youtube.com/@professor-ryanahmed` (Query any topic or model you want to understand simpy)
+### Here are useful links to learn:
+- Python Programming: `https://cs50.harvard.edu/python/2022/`
+- Pandas: `https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS`
+- Matplotlib: `https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_`
+- Machine Learning Concepts: `https://www.youtube.com/@professor-ryanahmed` (Query any topic or model you want to understand)
