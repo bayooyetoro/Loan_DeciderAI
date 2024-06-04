@@ -8,7 +8,7 @@ development of Automated Loan Decider System that quickly review applicant's dat
 This repo is about building a system like that using the `Microsoft Fabric's Data Science` as part of the training
 organized by the `9ja Data Platform`.
 
-To join the community, click here: `https://community.fabric.microsoft.com/t5/9ja-Data-Platform/gh-p/9jaDataPlatform`
+To join the community, click here: https://community.fabric.microsoft.com/t5/9ja-Data-Platform/gh-p/9jaDataPlatform
 
 ## Set up
 
